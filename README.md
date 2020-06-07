@@ -11,7 +11,8 @@ author:Eng. Tania Perez Ramirez << tperezdevelopment@gmail.com >> Cuban Center f
 <p>dataName ------> data Name to load the data matrix</p>
 <p>labelsName ----> labels Name to load the labels matrix</p>
 <p>varIndependentName ->variable independent example the age</p>
-<p>samefile  -----> if this is not empty so the matrix was saved in the same file</p>
+<p>samefile  -----> if this is not empty so the matrix was saved in the same file </p>
+
 <h2>Indfeat and correction data parameters</h2>
 <p>indfeat ------> 1 indicate calculate Indfeat.m routine for selecting independent features for modeling problems</p>
 <h2>Samplig parameters<h2>
