@@ -15,18 +15,19 @@ author:Eng. Tania Perez Ramirez << tperezdevelopment@gmail.com >> Cuban Center f
 
 <h2>Indfeat and correction data parameters</h2>
 <p>indfeat ------> 1 indicate calculate Indfeat.m routine for selecting independent features for modeling problems</p>
-<h2>Samplig parameters<h2>
+
+<h2>Samplig parameters</h2>
 <p>percent_var ---> % of variable for generate the samples</p>
 <p>percent_subj --> % of subjects for generate the samples</p>
 <p>Nsamples ------> Number of times for random sample</p>
 
-<h2>Model Estimation parameters<h2>
+<h2>Model Estimation parameters</h2>
 <p>percent_train_sample->% of the data to train</p>
 <p>alphas --------> weight for estimate the lambda<p>
 
-<h2>Selection Model parameters<h2>
+<h2>Selection Model parameters</h2>
 <p>mod_percent_selected ----> % of variable selection </p>
 <p>mod_nrepet ------> Number of times for generate data train and test data</p>
 
-<h2>Additional parameters<h2>
+<h2>Additional parameters</h2>
 <p>show_graphs -----> 1 indicate to show graphs (this options is unable for Cbrain)</p>
