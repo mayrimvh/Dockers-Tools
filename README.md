@@ -1,11 +1,11 @@
 # biomarkers
 this is the Dockerfile for biomarkers modules
 
-%$Biomarkers Module Version 1.0.1 Montreal Institute and Cuban Center for Neuroscience
-%author:Eng. Tania Perez Ramirez << tperezdevelopment@gmail.com >> Cuban Center for Neurosciences
-%%inputs list:
-%%%%data parameters%%%%%
-%dataFile -----------> This is the .mat input file of the data matrix subjects information. A matrix of number of subjects x variables.
+Biomarkers Module Version 1.0.1 Montreal Institute and Cuban Center for Neuroscience
+author:Eng. Tania Perez Ramirez << tperezdevelopment@gmail.com >> Cuban Center for Neurosciences
+<h1>inputs list:</h1>
+<h2>data parameters</h2>
+<p>dataFile -----------> This is the .mat input file of the data matrix subjects information. A matrix of number of subjects x variables.</p>
 %labelsFile ---------> This is the .mat input file of the labels for the classification of the data example. A matrix of number of subjects x label.
 %varIndependentFile -> This is the .mat input file of independent variable. Usually is the age.
 %dataName ------> data Name to load the data matrix
