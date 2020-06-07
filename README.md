@@ -1,8 +1,8 @@
 # biomarkers
 this is the Dockerfile for biomarkers modules
 
-Biomarkers Module Version 1.0.1 Montreal Institute and Cuban Center for Neuroscience
-author:Eng. Tania Perez Ramirez << tperezdevelopment@gmail.com >> Cuban Center for Neurosciences
+<p>Biomarkers Module Version 1.0.1 Montreal Institute and Cuban Center for Neuroscience</p>
+<p>author:Eng. Tania Perez Ramirez << tperezdevelopment@gmail.com >> Cuban Center for Neurosciences</p>
 <h1>inputs list:</h1>
 <h2>data parameters</h2>
 <p>dataFile -----------> This is the .mat input file of the data matrix subjects information. A matrix of number of subjects x variables.</p>
